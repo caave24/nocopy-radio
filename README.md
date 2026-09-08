@@ -1,6 +1,20 @@
 # nocopy-radio
 all music contained in this repo, contains no copyright.
 
+```
+---
+
+``
+-
+```
+
+
+
+---
+
+`https://freemusicarchive.org/music/Breuss_Arrizabalaga_Quintet/Nfamoudou-Boudougou/`
+- https://creativecommons.org/publicdomain/certification/1.0/us/
+
 ---
 
 `https://archive.org/details/CalmPills/`
