@@ -8,7 +8,11 @@ all music contained in this repo, contains no copyright.
 -
 ```
 
+---
 
+`https://freemusicarchive.org/music/superare/i-1/9-to-5/`
+`https://freemusicarchive.org/music/superare/v/rainbow-1/`
+- https://creativecommons.org/publicdomain/zero/1.0/
 
 ---
 
